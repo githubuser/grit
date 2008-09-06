@@ -5,6 +5,7 @@ require 'ruby-prof'
 require 'memcache'
 require 'pp'
 
+puts "HELLO"
 
 #require 'grit'
 require 'lib/grit'
